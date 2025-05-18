@@ -16,10 +16,6 @@
 .prettierignore
 
 
-fonts/
-
-
-design/
-
-*.md
-!README.md
+README-template.md
+style-guide.md
+assets/fonts/
