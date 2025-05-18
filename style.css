@@ -50,6 +50,11 @@ body {
     margin: 14px 0 8px;
     font-weight: 800;
     font-size: 18px;
+    cursor: pointer;
+}
+
+.title:hover {
+    color: hsl(47, 88%, 63%);
 }
 
 .desc {
