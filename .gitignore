@@ -21,6 +21,5 @@ fonts/
 
 design/
 
-/README-template.md
-
-/style-guide.md
+*.md
+!README.md
